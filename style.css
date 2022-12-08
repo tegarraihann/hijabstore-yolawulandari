@@ -1,0 +1,286 @@
+h1{
+    padding: 1%;
+    background-color: black;   
+    color: white;
+    font-family: arial;
+    text-align: center;
+    font-weight: 100;
+    margin-top: -0.4em;
+}
+
+
+
+
+label {
+    margin-left: -7%;
+    font-weight: 700;
+    font-family: arial;
+}
+
+nav {
+    float: right;
+    font-weight: 700;
+    font-family: arial;
+    text-decoration: none;
+    word-spacing: 3em;
+    color: black;
+}
+
+h5{
+    padding: 3%;
+    font-size: x-large;
+}
+
+.langit{
+    font-size: 18px;
+    margin-left: -1%;
+}
+
+aside img{
+    width: 20%;
+    height: 16pc;
+    border-radius: 20%;
+    float: right;
+    margin: 7%;
+
+}
+
+img{
+    padding-left: 3%;
+    width: 100px;
+    height: 150px;
+
+}
+
+p {
+    margin-left: 12%;
+    margin-top: -3%;
+
+}
+
+.orderbg{
+    margin-left: 10%;
+    margin-top: -4%;
+    background-color: blue;
+    margin-right: 75%;
+    height: 4%;
+    width: 14%;
+    border-radius: 1ch;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.orderbg p{
+    margin: 8%;
+    padding: 4%;
+}
+
+
+
+
+article table tr td img {
+    width: 90px;
+    height: 15ch;
+    margin-inline: center;   
+    text-align: center; 
+
+}
+
+.artikel img{
+    width: 170px;
+    height: 18ch;
+}
+
+label{
+    padding: 10%;
+
+}
+
+
+hr {
+    padding: 1px;
+    margin-left: 2%;
+    width: 15%;
+    border-radius: 20px;
+    background-color: palevioletred;
+
+}
+
+
+.box{
+    width: 210px;
+    height: 280px;
+    background-color: brown;
+    border-radius: 2ch;
+
+}
+
+
+
+.box img{
+    width: 200px;
+    height: 220px;
+    border-radius: 1ch;
+}
+
+.judul-produk {
+    text-align: center;
+    font-weight: 100%;
+    padding: 2%;
+    font-weight: bold;
+    font-family: calibri;
+}
+
+.harga-produk{
+    text-align: center;
+    padding: 1%;
+    font-weight: bold;
+    font-family: calibri;
+
+}
+
+.box{
+    width: 210px;
+    height: 280px;
+    background-color: grey;
+    border-radius: 2ch;
+    display: inline-table;
+    margin-right: 6%;
+
+}
+
+
+
+.box img{
+    width: 200px;
+    height: 220px;
+    border-radius: 1ch;
+
+}
+
+.judul-produk {
+    text-align: center;
+    font-weight: 100%;
+    padding: 2%;
+    font-weight: bold;
+    font-family: calibri;
+}
+
+.harga-produk{
+    text-align: center;
+    padding: 1%;
+    font-weight: bold;
+    font-family: calibri;
+}
+
+.catalog{
+    background-color: aliceblue;
+}
+
+.testi1 img{
+    width: 30%;
+    height: 40ch;
+}
+
+.testi2 img{
+    width: 30%;
+    height: 40ch;
+    margin: 2%;
+    margin-top: -25%;
+}
+
+.rating img{
+    width: 20%;
+    height: 9ch;
+    margin-left:26em;
+    margin-bottom: 30em;
+}
+
+.rating p{
+    margin-left:29em;
+    margin-top: -26em;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.rating pre{
+    margin-left:29.5em;
+    margin-top: -1em;
+    font-family:serif;
+    letter-spacing: 0.3ch;
+    
+}
+
+.text{
+    margin-left:3.5em;
+    margin-top: 2em;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.bgbutton{
+    background-color: yellow;
+    width: 15%;
+    height: 3ch;
+    margin-left: 29em;
+    border-radius: 0ch;
+}
+
+.footer1 img{
+    width:50px;
+    height: 50px;
+    margin-top: 7ch;
+
+}
+
+p{
+    margin-left: 5.5ch;
+    margin-top:1em;
+}
+
+.footer1{
+    background-color: palevioletred;
+    height: 297px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    height: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+    margin-top:20ch;
+
+}
+
+.hfooter{
+    margin-bottom: -3em;
+    font-family: serif;
+    letter-spacing: 1ch;
+}
+
+.hfooter_1 {
+    float: right;
+    margin: 2em;
+    margin-left: 12em;
+    font-family: sans-serif;
+    
+}
+
+.hfooter_2{
+    float: right;
+    margin: 4em;
+    margin-right: -7cm;
+    text-align: end;
+}
+
+
+
+
+
+
+
+
+
+
